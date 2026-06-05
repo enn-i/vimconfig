@@ -114,6 +114,7 @@ set noswapfile
 set relativenumber
 set autoindent
 set smartindent
+set shell=/bin/zsh
 
 set updatetime=100
 set tabstop=2
