@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/shao/.oh-my-zsh/plugins'
+let g:netrw_dirhist_5='/home/shao'
+let g:netrw_dirhist_4='/home/shao/.steam'
+let g:netrw_dirhist_3='/home/shao'
+let g:netrw_dirhist_2='/home/shao/.vim/plugged'
+let g:netrw_dirhist_1='/home/shao/.vim'
+let g:netrw_dirhist_0='/home/shao/.vim/autoload'
+let g:netrw_dirhist_9='/home/shao/.vim/plugged/CP'
+let g:netrw_dirhist_8='/home/shao/.vim/plugged/ChocolatePapaya/colors'
+let g:netrw_dirhist_7='/home/shao/.vim/plugged/ChocolatePapaya'
